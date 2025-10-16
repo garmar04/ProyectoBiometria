@@ -6,7 +6,7 @@ import java.util.UUID;
 
 // -----------------------------------------------------------------------------------
 // Fichero: Ultilidades.java
-// Responsable: Josue Bellota Ichaso
+// Responsable: Joel Garcia Marti
 //
 // -----------------------------------------------------------------------------------
 //

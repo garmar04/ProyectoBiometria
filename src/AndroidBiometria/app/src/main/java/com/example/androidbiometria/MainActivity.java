@@ -25,7 +25,7 @@ import java.util.List;
 // -----------------------------------------------------------------------------------
 //
 // Fichero:MainActivity.java
-// Responsable: Josue Bellota Ichaso
+// Responsable: Joel Garcia Marti
 //
 // Funcionalidad:
 //  - Inicializa Bluetooth y el escáner BLE

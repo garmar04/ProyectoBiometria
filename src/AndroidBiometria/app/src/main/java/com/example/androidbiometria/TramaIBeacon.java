@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 // -----------------------------------------------------------------------------------
 // Fichero: TramaIBeacon.java
-// Responsable: Josue Bellota Ichaso
+// Responsable: Joel Garcia Marti
 //
 // -----------------------------------------------------------------------------------
 //
