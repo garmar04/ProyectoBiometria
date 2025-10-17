@@ -345,7 +345,7 @@ public class MainActivity extends AppCompatActivity {
     // --------------------------------------------------------------
     public void botonBuscarNuestroDispositivoBTLEPulsado( View v ) {
         Log.d(ETIQUETA_LOG, " boton nuestro dispositivo BTLE Pulsado" );
-        this.buscarEsteDispositivoBTLE( "LE_WH-1000XM5" );
+        this.buscarEsteDispositivoBTLE( "Joel" );
 
     } // ()
 

@@ -170,9 +170,9 @@ void loop () {
   };
 
   // elPublicador.laEmisora.emitirAnuncioIBeaconLibre ( &datos[0], 21 );
-  // elPublicador.laEmisora.emitirAnuncioIBeaconLibre ( "HolaHolaHolaHola", 21 );
+  elPublicador.laEmisora.emitirAnuncioIBeaconLibre ( "HolaHolaHolaHola", 21 );
 
-  esperar(4000);
+  esperar(2000);
   elPublicador.laEmisora.detenerAnuncio();
   
   // 
